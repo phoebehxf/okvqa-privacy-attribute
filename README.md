@@ -1,6 +1,6 @@
 # okvqa-privacy-attribute
 
-This json file (`annotations.json`) contains privacy attribute annotations of the two subsets ('People and Everyday life' and 'Sports and Recreation) in OK-VQA val set. The corresponding images can be downloaded from OK-VQA dataset (https://okvqa.allenai.org).
+This json file (`annotations.json`) contains privacy attribute annotations of the two subsets ('People and Everyday life' and 'Sports and Recreation) in OK-VQA val set used in Boundary Probing for Input Privacy Protection When Using LMM Services (ICCV2025). The corresponding images can be downloaded from OK-VQA dataset (https://okvqa.allenai.org).
 
 Following previous works, the annotated privacy attributes are gender ("a4_gender"), complete face ("a9_face_complete"), partial face ("a10_face_partial"), skin color ("a17_color"), semi-nudity ("a12_semi_nudity"), personal relationship ("a64_rel_personal"), and social relationship ("a65_rel_social").
 
